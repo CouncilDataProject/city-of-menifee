@@ -7,7 +7,7 @@ from setuptools import find_packages, setup
 
 requirements = [
     "cdp-backend[pipeline]==4.0.8",
-    "cdp-scrapers>0.6.1",
+    "cdp-scrapers>=0.6.1",
 ]
 
 test_requirements = [
