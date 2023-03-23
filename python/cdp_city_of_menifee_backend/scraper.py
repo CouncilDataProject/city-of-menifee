@@ -5,6 +5,7 @@ from datetime import datetime
 from typing import List
 
 from cdp_backend.pipeline.ingestion_models import EventIngestionModel
+from cdp_scrapers.prime_gov_utils import PrimeGovScraper
 
 ###############################################################################
 
@@ -35,6 +36,8 @@ def get_events(
     and to_dt parameters. However, they are useful for manually kicking off pipelines
     from GitHub Actions UI.
     """
-
-    # Your implementation here
-    return []
+    scraper = PrimeGovScraper(
+        client_id="cityofmenifee",
+        timezone="America/Los_Angeles",
+    )
+    return scraper.get_events(begin=from_dt, end=to_dt)
