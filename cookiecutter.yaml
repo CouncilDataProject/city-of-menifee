@@ -1,0 +1,17 @@
+default_context:
+    municipality: "City of Menifee"
+    iana_timezone: "America/Los_Angeles"
+    governing_body_type: "city council"
+    municipality_slug: "city-of-menifee"
+    python_municipality_slug: "city_of_menifee"
+    infrastructure_slug: "cdp-city-of-menifee-yjlhhbdn"
+    maintainer_or_org_full_name: "Council Data Project Contributors"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "city-of-menifee"
+    hosting_github_url: "https://github.com/CouncilDataProject/city-of-menifee"
+    hosting_web_app_address: "https://CouncilDataProject.github.io/city-of-menifee"
+    firestore_region: "us-central"
+    event_gather_timedelta_lookback_days: 2
+    event_gather_cron: "3 12 * * *"
+    enable_clipping: "true"
+    speech_to_text_model_version: "medium"
