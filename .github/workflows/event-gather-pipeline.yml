@@ -67,7 +67,6 @@ jobs:
       run: |
         cd python/
         pip install .
-        pip install 'faster-whisper @ git+https://github.com/guillaumekln/faster-whisper.git'
 
     - name: Setup gcloud
       uses: google-github-actions/setup-gcloud@v0
