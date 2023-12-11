@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/city-of-menifee/static/js/main.818a4bcb.chunk.js",
-    "main.js.map": "/city-of-menifee/static/js/main.818a4bcb.chunk.js.map",
-    "runtime-main.js": "/city-of-menifee/static/js/runtime-main.48363c07.js",
-    "runtime-main.js.map": "/city-of-menifee/static/js/runtime-main.48363c07.js.map",
+    "main.js": "/city-of-menifee/static/js/main.c632ec1e.chunk.js",
+    "main.js.map": "/city-of-menifee/static/js/main.c632ec1e.chunk.js.map",
+    "runtime-main.js": "/city-of-menifee/static/js/runtime-main.ee09611e.js",
+    "runtime-main.js.map": "/city-of-menifee/static/js/runtime-main.ee09611e.js.map",
     "static/css/2.bd5b6b7e.chunk.css": "/city-of-menifee/static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.b2461fe8.chunk.js": "/city-of-menifee/static/js/2.b2461fe8.chunk.js",
-    "static/js/2.b2461fe8.chunk.js.map": "/city-of-menifee/static/js/2.b2461fe8.chunk.js.map",
+    "static/js/2.d57e0105.chunk.js": "/city-of-menifee/static/js/2.d57e0105.chunk.js",
+    "static/js/2.d57e0105.chunk.js.map": "/city-of-menifee/static/js/2.d57e0105.chunk.js.map",
     "index.html": "/city-of-menifee/index.html",
     "static/css/2.bd5b6b7e.chunk.css.map": "/city-of-menifee/static/css/2.bd5b6b7e.chunk.css.map",
-    "static/js/2.b2461fe8.chunk.js.LICENSE.txt": "/city-of-menifee/static/js/2.b2461fe8.chunk.js.LICENSE.txt"
+    "static/js/2.d57e0105.chunk.js.LICENSE.txt": "/city-of-menifee/static/js/2.d57e0105.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48363c07.js",
+    "static/js/runtime-main.ee09611e.js",
     "static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.b2461fe8.chunk.js",
-    "static/js/main.818a4bcb.chunk.js"
+    "static/js/2.d57e0105.chunk.js",
+    "static/js/main.c632ec1e.chunk.js"
   ]
 }
